@@ -1,9 +1,8 @@
 House Price Prediction using Simple Linear Regression
+
 Overview
 This project demonstrates a simple linear regression model to predict house prices based on the median income feature using a California housing dataset. The notebook covers data loading, preprocessing, training the model, and evaluating its performance through visualization and statistical metrics.
 
-Project Details
-Project Name: House Price Prediction using Simple Linear Regression
 
 Dataset
 The dataset contains 3000 entries with the following columns:
